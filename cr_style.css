@@ -1,0 +1,19 @@
+.container
+{
+   margin-top: 9%;
+   background-color: blueviolet;
+   
+  
+}
+#logout
+{
+    float: right;
+}
+#bg
+{
+
+    background-color: aqua;
+    margin-top: 0%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}

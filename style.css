@@ -1,0 +1,33 @@
+body
+{
+	background: url(https://www.newcomersjobcentre.ca/wp-content/uploads/company_logos/2018/03/login-page-1.jpg);
+    background-size: cover;
+}
+
+.login_div1 
+{
+	background: lightblue;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+#bg
+{
+    padding-top: 200px;
+    padding-right: 700px;
+}
+.img
+{
+    background: url(https://cdn0.iconfinder.com/data/icons/network-and-communication-1-6/66/30-512.png);
+    z-index: 999;
+    width: 500px;
+    height: 500px;
+    background-size: cover;
+    margin-top: 200px;
+    margin-right: 200px;
+    float: right;
+   
+    
+}
+
+
